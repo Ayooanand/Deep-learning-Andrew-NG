@@ -18,7 +18,7 @@ It has five courses in it
 >[Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)  
 
 >[Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)  
-
 >>find solutions for this course here [solutions for Convolutional Neural Networks](https://github.com/sudheernaidu53/Deep-learning-Andrew-NG/tree/master/convolutional%20neural%20networks)  
+
 >[Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)  
 >>find solutions for this course here [solutions for Sequence Models](https://github.com/sudheernaidu53/Deep-learning-Andrew-NG/tree/master/sequence%20models)  
