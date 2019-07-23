@@ -16,6 +16,7 @@ It has five courses in it
 >>find solutions for this course here [solutions for Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/sudheernaidu53/Deep-learning-Andrew-NG/tree/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)  
 
 >[Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)  
+>>find answers to quiz papers here [solutions to Structuring Machine Learning Projects](https://github.com/sudheernaidu53/Deep-learning-Andrew-NG/tree/master/Machine%20learning%20projects)  
 
 >[Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)  
 >>find solutions for this course here [solutions for Convolutional Neural Networks](https://github.com/sudheernaidu53/Deep-learning-Andrew-NG/tree/master/convolutional%20neural%20networks)  
